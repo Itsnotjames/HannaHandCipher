@@ -1,1 +1,1 @@
-HannaHandCipher
+This cipher uses three keys and a book to encrypt a single plaintext. To decrypt the ciphertext, this cipher uses one key, two encrypted book indexes called "book groups", and the corresponding book to decrypt a single plaintext.
